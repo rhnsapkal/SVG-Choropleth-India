@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choropleth Map</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="tooltip"></div>
+    <div class="flex-container">
+        <div class="map-container">
+            <svg id="india_state_ut_svg" viewbox="0 0 750 650"></svg>
+        </div>
+        <div class="map-container">
+            <svg id="state_ut_district_svg" viewbox="0 0 750 650"></svg>
+        </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+
+    <script src="../data/india_state_ut.js"></script>
+    <script src="../data/state_ut_district.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

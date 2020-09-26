@@ -1,0 +1,39 @@
+Andaman and Nicobar Islands
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+Chandigarh
+*********************** Daman and Diu (1)
+*********************** Dadra and Nagar Haveli (1)
+Delhi
+Goa
+Gujarat
+Himachal Pradesh
+Haryana
+Jharkhand
+Jammu and Kashmir
+Karnataka
+Kerala
+*********************** Lakshadweep (1)
+Ladakh
+Maharashtra
+Meghalaya
+Manipur
+Madhya Pradesh
+Mizoram
+Nagaland
+Odisha
+Punjab
+Pondicherry
+Rajasthan
+Sikkim
+Tamilnadu
+Tripura
+Telangana
+Uttar Pradesh
+Uttarakhand
+West Bengal
+
+[AN, AP, AR, AS, BR, CG, CH, DD, DH, DL, GA, GJ, HP, HR, JH, JK, KA, KL, LD, LK, MH, ML, MN, MP, MZ, NL, OR, PB, PY, RJ, SK, TN, TR, TS, UP, UT, WB]
